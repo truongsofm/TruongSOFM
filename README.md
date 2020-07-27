@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/truongsofm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=locmai0808&repo=Facebook-Access-Token&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=truongsofm&repo=youtube-blocker-v2&theme=gruvbox" />
 </a>
 
 # Visitor Count
